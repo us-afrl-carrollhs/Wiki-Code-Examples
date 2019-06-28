@@ -1,0 +1,18 @@
+<html>
+
+   <!--CSS Code*/--!>
+   <style>
+      h1 {color: #001389;}
+      .div1 h1 {color: #000000;}
+      h1.header1 {color: green;}
+  </style>
+
+   <h1>Header 3</h1>
+
+   <div class="div1">
+      <h1>Header 2</h1>
+   </div>
+
+   <h1 class="header1">Header 1</h1>
+
+</html>
