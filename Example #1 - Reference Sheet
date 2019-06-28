@@ -1,0 +1,33 @@
+<html>
+   <h1>Header 1</h1>
+   <h2>Header 2</h2>
+   <h3>Header 3</h3>
+   <h4>Header 4</h4>
+   <h5>Header 5</h5>
+   <h6>Header 6</h6>
+   <p> Paragraph text</p>
+   <p><b>Bold text</b></p>
+   <p><i>Italicized text</i></p>
+   <a href=“insert url here”>Link text</a>
+   <br>
+   <img src=“https://2019.igem.org/wiki/images/1/12/T--US_AFRL_CarrollHS--TeamLinearLogo2019.JPG” alt=“text in case image doesn’t appear” style=“width: 50%;  height: auto;”>
+   <table>
+      <tr>
+         <th>Table header 1</th>
+         <th>Table header 2</th>
+      </tr>
+      <tr>
+         <td>Table data 1</td>
+         <td>Table data 2</td>
+      </tr>
+   </table>
+   <ul>
+      <li>Unordered list item 1</li>
+      <ol>
+         <li>Ordered list item 1</li>
+         <li>Ordered list item 2</li>
+      </ol>
+      <li>Unordered list item 2</li>
+      <li>Unordered list item 3</li>
+   </ul>
+</html>
