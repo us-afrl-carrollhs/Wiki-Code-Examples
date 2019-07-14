@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Monserrat';
+  font-style: normal;
+  font-weight: 700;
+  src: url('');
+  src: local('Monserrat Bold'), local('Monserrat-Bold'), 
+url('') format('embedded-opentype'), 
+url('') format('woff'),
+url('') format('truetype'),
+url('') format('svg');
+} 
