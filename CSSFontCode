@@ -1,3 +1,6 @@
+/*Font websites: https://fonts.google.com and https://google-webfonts-helper.herokuapp.com/fonts*/
+/*Check out YouTube video for tutorial (insert link here)*/
+
 @font-face {
   font-family: 'Monserrat';
   font-style: normal;
